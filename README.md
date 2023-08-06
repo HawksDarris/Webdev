@@ -7,7 +7,7 @@ I decided not to have a different page for every thing because I can just have i
 ## Goal
 To make a pretty page where things load in and out in a smooth, aesthetically pleasing way. The primary focus is on the coding—I am not great at making color schemes, etc. 
 
-## Issue:
+## Issue
 ### Jarring transitions
 The main issue I have to address is that unhiding elements is currently pretty jarring and makes the page "hop" instead of transitioning smoothly. I also do not have any code for animating when the display is set back to none yet. I will probably just reverse the transition I already have for that.
 
